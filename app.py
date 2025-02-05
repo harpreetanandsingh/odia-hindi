@@ -4,7 +4,7 @@ from googletrans import Translator
 from google_trans_new import google_translator  
 from deep_translator import GoogleTranslator
 from gtts import gTTS
-from playsound import playsound
+#from playsound import playsound
 from PIL import Image
 from streamlit_mic_recorder import mic_recorder,speech_to_text
 from transformers import AutoTokenizer, M2M100ForConditionalGeneration
